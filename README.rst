@@ -21,28 +21,41 @@ For repositories with a long-term maintenance plan
 --
 
 Do
+
 - Clearly state the purpose of the repository and clarify that the software will be maintained for the foreseeable future, i.e., longer than the duration of any individual research projects.
+
 - Specify a line organization (i.e., a business unit) that will maintain the repository. Ensure that the unit manager commits to the maintenance plan.
+
 - Apply best practices for the development, e.g., follow code conventions, provide test cases, use continuous integration, and document your software.
+
 - Ensure that the software is made available using a RISE compliant open-source software license.
+
 - Ensure the repository contains the minimum required files: .gitignore, LICENSE and README
+
 - Follow the RISE code of conduct and the `GitHub Community Guidelines <https://help.github.com/en/articles/github-community-guidelines>`_
 
 For repositories that do not meet the strict requirements of long-term maintenance
 --
 
 Do
+
 - Create repositories under your own page or as a part of team or a project.
+
 - Ensure your repositories always contain the minimum required files: .gitignore, LICENSE and README (we recommend README.rst)
+
 - Always follow the RISE code of conduct and the `GitHub Community Guidelines <https://help.github.com/en/articles/github-community-guidelines>`_
+
 - Make repositories private if needed
 
 For any repository, under this organization or elsewhere
 ------
 
 Do not
+
 - Upload sensitive or secret information (e.g., patent applications, cryptographic keys) to GitHub, not even to a private repository
+
 - Do not include software created by other people in your code without including a reference and the original license
+
   - Verify that their license is not "infecting" your code
 
 Recommendations
