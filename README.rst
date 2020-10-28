@@ -1,45 +1,49 @@
 Where am I?
 ===========
 
-This is the official GitHub organization for `RISE (Research Institutes of Sweden) <https://www.ri.se/>`_.
+This is the official GitHub organization for `RISE Research Institutes of Sweden <https://www.ri.se/>`_.
 
-If you are looking for any specific repositories, please visit the member, team or project pages.
+Here you find a collection of repositories that will be maintained for the foreseeable future, i.e., repositories with a a maintenance plan for at least 10 years. The software constained in these repositories all ahave has expected lifetimes that go beyond individual research projects. Examples include mature demonstrators, software that allows external replications of research studies, and projects that of considerable interest to a wider open-source software community.
+
+If you are looking for any specific repositories that do not adhere to any long-term maintenance plans, you can probably find these on the on pages of individual teams, projects, or lead developers.
+
+
+Guidelines for RISE employees
+==========
 
 If you are a current or former employee and would like to be added, removed or have questions please contact the author of this document (preferably via company email).
 If you are already a member of this organization, make your membership public `on this page <https://github.com/orgs/RI-SE/people>`_ to see the membership badge.
 
+Note that most software development projects managed by RISE shall not be hosted directly under this organization. This is not the right place for master thesis projects, small proof-of-concepts, and general prototype development. The repositories hosted here shall all be development projects based on industry best practice in terms of quality assurance and governance.
+If you plan to make open-source software available as part of your RISE projects, please make sure you comply with the following rules:
 
-
-
-Guidelines
-==========
-
-If you plan to publish your work here, please make sure you comply with the following rules:
-
-Do
+For repositories with a long-term maintenance plan
 --
 
+Do
+- Clearly state the purpose of the repository and clarify that the software will be maintained for the foreseeable future, i.e., longer than the duration of any individual research projects.
+- Specify a line organization (i.e., a business unit) that will maintain the repository. Ensure that the unit manager commits to the maintenance plan.
+- Apply best practices for the development, e.g., follow code conventions, provide test cases, use continuous integration, and document your software.
+- Ensure that the software is made available using a RISE compliant open-source software license.
+- Ensure the repository contains the minimum required files: .gitignore, LICENSE and README
+- Follow the RISE code of conduct and the `GitHub Community Guidelines <https://help.github.com/en/articles/github-community-guidelines>`_
+
+For repositories that do not meet the strict requirements of long-term maintenance
+--
+
+Do
 - Create repositories under your own page or as a part of team or a project.
-
 - Ensure your repositories always contain the minimum required files: .gitignore, LICENSE and README (we recommend README.rst)
-
 - Always follow the RISE code of conduct and the `GitHub Community Guidelines <https://help.github.com/en/articles/github-community-guidelines>`_
-
 - Make repositories private if needed
 
-
-Do not
+For any repository, under this organization or elsewhere
 ------
 
-- Never upload sensitive or secret information (e.g. patent applications, cryptographic keys) to Github, not even to a private repository
-
-- Do not place repositories directly under the organization. Use your own page, teams or projects
-
-- Do not include software created by other people in your code without including
-  a reference and the original license
-
+Do not
+- Upload sensitive or secret information (e.g., patent applications, cryptographic keys) to GitHub, not even to a private repository
+- Do not include software created by other people in your code without including a reference and the original license
   - Verify that their license is not "infecting" your code
-
 
 Recommendations
 ===============
