@@ -3,10 +3,9 @@ Where am I?
 
 This is the official GitHub organization for `RISE Research Institutes of Sweden <https://www.ri.se/>`_.
 
-Here you find a collection of repositories that will be maintained for the foreseeable future, i.e., repositories with a a maintenance plan for at least 10 years. The software constained in these repositories all ahave has expected lifetimes that go beyond individual research projects. Examples include mature demonstrators, software that allows external replications of research studies, and projects that of considerable interest to a wider open-source software community.
+Here you find a collection of repositories that will be maintained for the foreseeable future, i.e., repositories with a a maintenance plan for at least 10 years. The software contained in these repositories all have expected lifetimes that go beyond individual research projects. Examples include mature demonstrators, software that allows external replications of research studies, and projects that are of considerable interest to a wider open-source software community.
 
-If you are looking for any specific repositories that do not adhere to any long-term maintenance plans, you can probably find these on the on pages of individual teams, projects, or lead developers.
-
+If you are looking for any specific repositories that do not adhere to any long-term maintenance plans, you can probably find them on pages of individual teams, projects, or listed under their lead developers.
 
 Guidelines for RISE employees
 ==========
@@ -14,7 +13,7 @@ Guidelines for RISE employees
 If you are a current or former employee and would like to be added, removed or have questions please contact the author of this document (preferably via company email).
 If you are already a member of this organization, make your membership public `on this page <https://github.com/orgs/RI-SE/people>`_ to see the membership badge.
 
-Note that most software development projects managed by RISE shall not be hosted directly under this organization. This is not the right place for master thesis projects, small proof-of-concepts, and general prototype development. The repositories hosted here shall all be development projects based on industry best practice in terms of quality assurance and governance.
+Note that most software development projects managed by RISE shall **not** be hosted directly under this organization. This is not the right place for master thesis projects, small proofs-of-concept, and general prototype development. The repositories hosted here shall all be development projects based on industry best practice in terms of quality assurance and governance.
 If you plan to make open-source software available as part of your RISE projects, please make sure you comply with the following rules:
 
 For repositories with a long-term maintenance plan
@@ -34,12 +33,12 @@ Do
 
 - Follow the RISE code of conduct and the `GitHub Community Guidelines <https://help.github.com/en/articles/github-community-guidelines>`_
 
-For repositories that do not meet the strict requirements of long-term maintenance
+For repositories that do not meet the strict requirements of a long-term maintenance plan
 --
 
 Do
 
-- Create repositories under your own page or as a part of team or a project.
+- Create repositories under your own page, a team or a project.
 
 - Ensure your repositories always contain the minimum required files: .gitignore, LICENSE and README (we recommend README.rst)
 
