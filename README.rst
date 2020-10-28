@@ -17,7 +17,7 @@ Note that most software development projects managed by RISE shall **not** be ho
 If you plan to make open-source software available as part of your RISE projects, please make sure you comply with the following rules:
 
 For repositories with a long-term maintenance plan
---
+---------------
 
 Do
 
@@ -34,7 +34,7 @@ Do
 - Follow the RISE code of conduct and the `GitHub Community Guidelines <https://help.github.com/en/articles/github-community-guidelines>`_
 
 For repositories that do not meet the strict requirements of a long-term maintenance plan
---
+---------------
 
 Do
 
@@ -47,7 +47,7 @@ Do
 - Make repositories private if needed
 
 For any repository, under this organization or elsewhere
-------
+---------------
 
 Do not
 
@@ -63,7 +63,6 @@ Recommendations
 For easier collaboration when using git, please consider the following additional recommendations:
 
 Do
---
 
 - Read the `Git Book <https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository>`_ to familiarize yourself with the Git workflow and best practices
 
@@ -100,9 +99,7 @@ Do
 
   - Use the issue system for registering and managing bugs
 
-
 Do not
-------
 
 - Do not break the build
 
@@ -119,4 +116,3 @@ Do not
   - Do not include large files, auto-generated files, backup and junk files
 
   - Do not artificially inflate the commit (e.g. by changing the indentation)
-
