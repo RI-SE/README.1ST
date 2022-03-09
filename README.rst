@@ -10,8 +10,7 @@ If you are looking for any specific repositories that do not adhere to any long-
 Guidelines for RISE employees
 ==========
 
-If you are a current or former employee and would like to be added, removed or have questions please contact the author of this document (preferably via company email).
-If you are already a member of this organization, make your membership public `on this page <https://github.com/orgs/RI-SE/people>`_ to see the membership badge.
+If you are a current or former employee and would like to be added, removed or have questions please contact our github administrators or RISE IT. If you are already a member of this organization, make your membership public `on this page <https://github.com/orgs/RI-SE/people>`_ to see the membership badge.
 
 Note that most software development projects managed by RISE shall **not** be hosted directly under this organization. This is not the right place for master thesis projects, small proofs-of-concept, and general prototype development. The repositories hosted here shall all be development projects based on industry best practice in terms of quality assurance and governance.
 If you plan to make open-source software available as part of your RISE projects, please make sure you comply with the following rules:
